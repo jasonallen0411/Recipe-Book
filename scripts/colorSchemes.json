@@ -1,0 +1,56 @@
+[{ 
+	"color1": "red", 
+	"color2": "#0F338F",
+	"color3": "yellow",
+	"color4": "#57595C",
+	"color5": "#D0D4DB"
+},
+{
+	"color1": "red", 
+	"color2": "#0018A1",
+	"color3": "yellow",
+	"color4": "#2A315C",
+	"color5": "#345FDB"
+},
+{
+	"color1": "red", 
+	"color2": "#64BFDB",
+	"color3": "yellow",
+	"color4": "#087A00",
+	"color5": "#1519C7"
+},
+{
+	"color1": "red", 
+	"color2": "#087A00",
+	"color3": "yellow",
+	"color4": "#FF6500",
+	"color5": "#FFF1E5"
+},
+{
+	"color1": "#FFF1E5", 
+	"color2": "#1E34C7",
+	"color3": "yellow",
+	"color4": "#789ED1",
+	"color5": "#9AADC7"
+},
+{
+	"color1": "red", 
+	"color2": "#087A00",
+	"color3": "yellow",
+	"color4": "#D19F78",
+	"color5": "#D0D4DB"
+},
+{
+	"color1": "#E03900", 
+	"color2": "#0F338F",
+	"color3": "yellow",
+	"color4": "#E09E7A",
+	"color5": "#474746"
+},
+{
+	"color1": "#087A00", 
+	"color2": "#733200",
+	"color3": "yellow",
+	"color4": "#57595C",
+	"color5": "#C4926A"
+}]

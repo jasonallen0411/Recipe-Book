@@ -1,0 +1,146 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #6FCC00;
+	}
+
+#header{
+	font-family: helvetica;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 30px;
+	background-color: #5C7F00;
+	color: white;
+}
+
+
+#searchInput{
+	display: block;
+	margin: 0px auto;
+	margin-top: 30px;
+}
+
+#searchBtn{
+	display: block;
+	margin: 0px auto;
+	margin-top: 10px;
+	background-color: #035B7F;
+	color: white;
+	height: 60px;
+
+}
+
+.recipe{
+	height: 50px;
+	overflow: hidden;
+	color: white;
+	text-align: center;
+	user-select: none;
+	-webkit-transition-duration: .75s;
+	-o-transition-duration: .75s;
+	-moz-transition-duration: .75s;
+	-ms-transition-duration: .75s;
+	transition-duration: .75s;
+}
+
+
+.recipe ul li{
+	list-style-type: none;
+}
+
+.recipe:nth-child(odd){
+	background-color: #5C7F00;
+}
+
+.recipe:nth-child(even){
+	background-color: #74B000;
+}
+
+.show{
+	height: 600px;
+}
+
+#plus{
+	background-color: #474A43;
+	color: white;
+	margin-left: 10px;
+}
+
+.buttons{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#pizzaBtn{
+	background-color: #FF2900;
+	color: white;
+}
+
+#pastaBtn{
+	background-color: #FF6100;
+	color: white;
+}
+
+#steakBtn{
+	background-color: #7F2C00;
+	color: white;
+}
+
+#chickenBtn{
+	background-color: #FFD600;
+	color: white;
+}
+
+#seafoodBtn{
+	background-color: salmon;
+	color: white;
+}
+
+#reloadBtn{
+	background-color: #B00959;
+	color: white;
+}
+
+#chef1{
+	float: left;
+	width: 300px;
+	height: 300px;
+	user-select: none;
+}
+
+#chef2{
+	float: right;
+	width: 300px;
+	height: 300px;
+	-webkit-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-moz-transform: scaleX(-1);
+	-ms-transform: scaleX(-1);
+    transform: scaleX(-1);
+    user-select: none;
+}
+
+
+
+
+/*@media screen and (max-width: 955px){
+	.row{
+		display: block;
+		margin: 10px;
+	}
+
+	.col4{
+		height: 350px;
+	}
+
+}*/
+
+
+
+
+/*-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;*/
+
